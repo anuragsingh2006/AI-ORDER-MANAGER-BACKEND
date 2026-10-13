@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-dotenv
+openai
+requests
+sqlalchemy
+pydantic
+psycopg[binary]>=3.2,<4
